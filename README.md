@@ -1,5 +1,4 @@
-
-### Objective: Classification for Wine Quality
+### Objective: Classification for Wine Quality (Binary Classification)
 
 This project implements classification techniques using two different models: 
 
@@ -7,11 +6,13 @@ This project implements classification techniques using two different models:
 The workflow includes data preprocessing, model training, <br>
 hyperparameter optimization, evaluation, and visualization of the results.
 
-## Steps
-1. Data Exploration and Preprocessing
-2. Model Training with Random Forest and XGBoost
-3. Evaluation Metrics and Visualization
-4. Deliverables
+#### Steps
+1: Data Exploration and Preprocessing <br>
+2: Model Training with Random Forest and XGBoost <br>
+3: Evaluation Metrics and Visualization <br>
+4: Deliverables <br>
+<br>
+<br>
 
 1. **Data Preparation**
     - Load the wine quality dataset.
